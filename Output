@@ -1,0 +1,64 @@
+🎰 Welcome to the Python Slot Machine! 🎰
+💰 What would you like to deposit? $ 500
+
+💵 Current balance: $500
+🎲 Press Enter to play (or type 'q' to quit):  
+🎰 Enter the number of lines to bet on (1-3):  3
+💸 What would you like to bet on each line? $ 50
+🤑 You are betting $50 on 3 lines. Total bet: $150
+
+💎 Slot Machine Results 💎
+C | C | D
+B | B | D
+B | C | B
+
+🎉 You won $0!
+😢 No winning lines.
+
+💵 Current balance: $350
+🎲 Press Enter to play (or type 'q' to quit):  
+🎰 Enter the number of lines to bet on (1-3):  3
+💸 What would you like to bet on each line? $ 10
+🤑 You are betting $10 on 3 lines. Total bet: $30
+
+💎 Slot Machine Results 💎
+C | B | C
+D | C | B
+D | C | B
+
+🎉 You won $0!
+😢 No winning lines.
+
+💵 Current balance: $320
+🎲 Press Enter to play (or type 'q' to quit):  
+🎰 Enter the number of lines to bet on (1-3):  3
+💸 What would you like to bet on each line? $ 20
+🤑 You are betting $20 on 3 lines. Total bet: $60
+
+💎 Slot Machine Results 💎
+B | D | C
+C | D | D
+B | C | D
+
+🎉 You won $0!
+😢 No winning lines.
+
+💵 Current balance: $260
+🎲 Press Enter to play (or type 'q' to quit):  
+🎰 Enter the number of lines to bet on (1-3):  3
+💸 What would you like to bet on each line? $ 20
+🤑 You are betting $20 on 3 lines. Total bet: $60
+
+💎 Slot Machine Results 💎
+B | B | B
+C | C | D
+D | C | B
+
+🎉 You won $80!
+✨ Winning lines:  1
+
+💵 Current balance: $280
+🎲 Press Enter to play (or type 'q' to quit):  q
+
+💸 You left with $280. Thanks for playing! 💸
+👋 Goodbye! See you next time!
